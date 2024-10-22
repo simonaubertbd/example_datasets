@@ -1,0 +1,330 @@
+﻿Classe,Couleur,Nom_Produit,IDProduit,CoutStandard,Style,NomSousCategorieProduit,NomCategorieProduit,IconeCategorieProduit
+H,Argent/Gris,"Montagne-100 Silver, 38",771,1912.1544,U,Vélos de Montagne,Vélos,🚲
+H,Argent/Gris,"Montagne-100 Silver, 42",772,1912.1544,U,Vélos de Montagne,Vélos,🚲
+H,Argent/Gris,"Montagne-100 Silver, 44",773,1912.1544,U,Vélos de Montagne,Vélos,🚲
+H,Argent/Gris,"Montagne-100 Silver, 48",774,1912.1544,U,Vélos de Montagne,Vélos,🚲
+H,Noir,"Montagne-100 Noir, 38",775,1898.0944,U,Vélos de Montagne,Vélos,🚲
+H,Noir,"Montagne-100 Noir, 42",776,1898.0944,U,Vélos de Montagne,Vélos,🚲
+H,Noir,"Montagne-100 Noir, 44",777,1898.0944,U,Vélos de Montagne,Vélos,🚲
+H,Noir,"Montagne-100 Noir, 48",778,1898.0944,U,Vélos de Montagne,Vélos,🚲
+H,Argent/Gris,"Montagne-200 Silver, 38",779,1265.6195,U,Vélos de Montagne,Vélos,🚲
+H,Argent/Gris,"Montagne-200 Silver, 42",780,1265.6195,U,Vélos de Montagne,Vélos,🚲
+H,Argent/Gris,"Montagne-200 Silver, 46",781,1265.6195,U,Vélos de Montagne,Vélos,🚲
+H,Noir,"Montagne-200 Noir, 38",782,1251.9813,U,Vélos de Montagne,Vélos,🚲
+H,Noir,"Montagne-200 Noir, 42",783,1251.9813,U,Vélos de Montagne,Vélos,🚲
+H,Noir,"Montagne-200 Noir, 46",784,1251.9813,U,Vélos de Montagne,Vélos,🚲
+M,Noir,"Montange-300 Noir, 38",785,598.4354,U,Vélos de Montagne,Vélos,🚲
+M,Noir,"Montange-300 Noir, 40",786,598.4354,U,Vélos de Montagne,Vélos,🚲
+M,Noir,"Montange-300 Noir, 44",787,598.4354,U,Vélos de Montagne,Vélos,🚲
+M,Noir,"Montange-300 Noir, 48",788,598.4354,U,Vélos de Montagne,Vélos,🚲
+M,Argent/Gris,"Montagne-400-W Argent, 38",980,419.7784,W,Vélos de Montagne,Vélos,🚲
+M,Argent/Gris,"Montagne-400-W Argent, 40",981,419.7784,W,Vélos de Montagne,Vélos,🚲
+M,Argent/Gris,"Montagne-400-W Argent, 42",982,419.7784,W,Vélos de Montagne,Vélos,🚲
+M,Argent/Gris,"Montagne-400-W Argent, 46",983,419.7784,W,Vélos de Montagne,Vélos,🚲
+L,Argent/Gris,"Montagne-500 Argent, 40",984,308.2179,U,Vélos de Montagne,Vélos,🚲
+L,Argent/Gris,"Montagne-500 Argent, 42",985,308.2179,U,Vélos de Montagne,Vélos,🚲
+L,Argent/Gris,"Montagne-500 Argent, 44",986,308.2179,U,Vélos de Montagne,Vélos,🚲
+L,Argent/Gris,"Montagne-500 Argent, 48",987,308.2179,U,Vélos de Montagne,Vélos,🚲
+L,Argent/Gris,"Montagne-500 Argent, 52",988,308.2179,U,Vélos de Montagne,Vélos,🚲
+L,Noir,"Montagne-500 Noir, 40",989,294.5797,U,Vélos de Montagne,Vélos,🚲
+L,Noir,"Montagne-500 Noir, 42",990,294.5797,U,Vélos de Montagne,Vélos,🚲
+L,Noir,"Montagne-500 Noir, 44",991,294.5797,U,Vélos de Montagne,Vélos,🚲
+L,Noir,"Montagne-500 Noir, 48",992,294.5797,U,Vélos de Montagne,Vélos,🚲
+L,Noir,"Montagne-500 Noir, 52",993,294.5797,U,Vélos de Montagne,Vélos,🚲
+H,Rouge,"Route-150 Rouge, 62",749,2171.2942,U,Vélos de Route,Vélos,🚲
+H,Rouge,"Route-150 Rouge, 44",750,2171.2942,U,Vélos de Route,Vélos,🚲
+H,Rouge,"Route-150 Rouge, 48",751,2171.2942,U,Vélos de Route,Vélos,🚲
+H,Rouge,"Route-150 Rouge, 52",752,2171.2942,U,Vélos de Route,Vélos,🚲
+H,Rouge,"Route-150 Rouge, 56",753,2171.2942,U,Vélos de Route,Vélos,🚲
+M,Rouge,"Route-450 Rouge, 58",754,884.7083,U,Vélos de Route,Vélos,🚲
+M,Rouge,"Route-450 Rouge, 60",755,884.7083,U,Vélos de Route,Vélos,🚲
+M,Rouge,"Route-450 Rouge, 44",756,884.7083,U,Vélos de Route,Vélos,🚲
+M,Rouge,"Route-450 Rouge, 48",757,884.7083,U,Vélos de Route,Vélos,🚲
+M,Rouge,"Route-450 Rouge, 52",758,884.7083,U,Vélos de Route,Vélos,🚲
+L,Rouge,"Route-650 Rouge, 58",759,486.7066,U,Vélos de Route,Vélos,🚲
+L,Rouge,"Route-650 Rouge, 60",760,486.7066,U,Vélos de Route,Vélos,🚲
+L,Rouge,"Route-650 Rouge, 62",761,486.7066,U,Vélos de Route,Vélos,🚲
+L,Rouge,"Route-650 Rouge, 44",762,486.7066,U,Vélos de Route,Vélos,🚲
+L,Rouge,"Route-650 Rouge, 48",763,486.7066,U,Vélos de Route,Vélos,🚲
+L,Rouge,"Route-650 Rouge, 52",764,486.7066,U,Vélos de Route,Vélos,🚲
+L,Noir,"Route-750 Noir, 58",765,486.7066,U,Vélos de Route,Vélos,🚲
+L,Noir,"Route-750 Noir, 60",766,486.7066,U,Vélos de Route,Vélos,🚲
+L,Noir,"Route-750 Noir, 62",767,486.7066,U,Vélos de Route,Vélos,🚲
+L,Noir,"Route-750 Noir, 44",768,486.7066,U,Vélos de Route,Vélos,🚲
+L,Noir,"Route-750 Noir, 48",769,486.7066,U,Vélos de Route,Vélos,🚲
+L,Noir,"Route-750 Noir, 52",770,486.7066,U,Vélos de Route,Vélos,🚲
+H,Rouge,"Route-250 Rouge, 44",789,1518.7864,U,Vélos de Route,Vélos,🚲
+H,Rouge,"Route-250 Rouge, 48",790,1518.7864,U,Vélos de Route,Vélos,🚲
+H,Rouge,"Route-250 Rouge, 52",791,1518.7864,U,Vélos de Route,Vélos,🚲
+H,Rouge,"Route-250 Rouge, 58",792,1554.9479,U,Vélos de Route,Vélos,🚲
+H,Noir,"Route-250 Noir, 44",793,1554.9479,U,Vélos de Route,Vélos,🚲
+H,Noir,"Route-250 Noir, 48",794,1554.9479,U,Vélos de Route,Vélos,🚲
+H,Noir,"Route-250 Noir, 52",795,1554.9479,U,Vélos de Route,Vélos,🚲
+H,Noir,"Route-250 Noir, 58",796,1554.9479,U,Vélos de Route,Vélos,🚲
+M,Jaune,"Route-550-W Jaune, 38",797,713.0798,W,Vélos de Route,Vélos,🚲
+M,Jaune,"Route-550-W Jaune, 40",798,713.0798,W,Vélos de Route,Vélos,🚲
+M,Jaune,"Route-550-W Jaune, 42",799,713.0798,W,Vélos de Route,Vélos,🚲
+M,Jaune,"Route-550-W Jaune, 44",800,713.0798,W,Vélos de Route,Vélos,🚲
+M,Jaune,"Route-550-W Jaune, 48",801,713.0798,W,Vélos de Route,Vélos,🚲
+M,Jaune,"Route-350-W Jaune, 40",973,1082.51,W,Vélos de Route,Vélos,🚲
+M,Jaune,"Route-350-W Jaune, 42",974,1082.51,W,Vélos de Route,Vélos,🚲
+M,Jaune,"Route-350-W Jaune, 44",975,1082.51,W,Vélos de Route,Vélos,🚲
+M,Jaune,"Route-350-W Jaune, 48",976,1082.51,W,Vélos de Route,Vélos,🚲
+L,Noir,"Route-750 Noir, 58",977,343.6496,U,Vélos de Route,Vélos,🚲
+L,Noir,"Route-750 Noir, 44",997,343.6496,U,Vélos de Route,Vélos,🚲
+L,Noir,"Route-750 Noir, 48",998,343.6496,U,Vélos de Route,Vélos,🚲
+L,Noir,"Route-750 Noir, 52",999,343.6496,U,Vélos de Route,Vélos,🚲
+M,Bleu,"Tourisme-2000 Bleu, 60",953,755.1508,U,Vélos de Tourisme,Vélos,🚲
+H,Jaune,"Tourisme-1000 Jaune, 46",954,1481.9379,U,Vélos de Tourisme,Vélos,🚲
+H,Jaune,"Tourisme-1000 Jaune, 50",955,1481.9379,U,Vélos de Tourisme,Vélos,🚲
+H,Jaune,"Tourisme-1000 Jaune, 54",956,1481.9379,U,Vélos de Tourisme,Vélos,🚲
+H,Jaune,"Tourisme-1000 Jaune, 60",957,1481.9379,U,Vélos de Tourisme,Vélos,🚲
+L,Bleu,"Tourisme-3000 Bleu, 54",958,461.4448,U,Vélos de Tourisme,Vélos,🚲
+L,Bleu,"Tourisme-3000 Bleu, 58",959,461.4448,U,Vélos de Tourisme,Vélos,🚲
+L,Bleu,"Tourisme-3000 Bleu, 62",960,461.4448,U,Vélos de Tourisme,Vélos,🚲
+L,Jaune,"Tourisme-3000 Jaune, 44",961,461.4448,U,Vélos de Tourisme,Vélos,🚲
+L,Jaune,"Tourisme-3000 Jaune, 50",962,461.4448,U,Vélos de Tourisme,Vélos,🚲
+L,Jaune,"Tourisme-3000 Jaune, 54",963,461.4448,U,Vélos de Tourisme,Vélos,🚲
+L,Jaune,"Tourisme-3000 Jaune, 58",964,461.4448,U,Vélos de Tourisme,Vélos,🚲
+L,Jaune,"Tourisme-3000 Jaune, 62",965,461.4448,U,Vélos de Tourisme,Vélos,🚲
+H,Bleu,"Tourisme-1000 Bleu, 46",966,1481.9379,U,Vélos de Tourisme,Vélos,🚲
+H,Bleu,"Tourisme-1000 Bleu, 50",967,1481.9379,U,Vélos de Tourisme,Vélos,🚲
+H,Bleu,"Tourisme-1000 Bleu, 54",968,1481.9379,U,Vélos de Tourisme,Vélos,🚲
+H,Bleu,"Tourisme-1000 Bleu, 60",969,1481.9379,U,Vélos de Tourisme,Vélos,🚲
+M,Bleu,"Tourisme-2000 Bleu, 46",970,755.1508,U,Vélos de Tourisme,Vélos,🚲
+M,Bleu,"Tourisme-2000 Bleu, 50",971,755.1508,U,Vélos de Tourisme,Vélos,🚲
+M,Bleu,"Tourisme-2000 Bleu, 54",972,755.1508,U,Vélos de Tourisme,Vélos,🚲
+L,Bleu,"Tourisme-3000 Bleu, 44",978,461.4448,U,Vélos de Tourisme,Vélos,🚲
+L,Bleu,"Tourisme-3000 Bleu, 50",979,461.4448,U,Vélos de Tourisme,Vélos,🚲
+L,,Guidons Montagne LL,808,19.7758,,Guidons,Composants,⚙
+M,,Guidons Montagne ML,809,27.4925,,Guidons,Composants,⚙
+H,,Guidons Montagne HL,810,53.3999,,Guidons,Composants,⚙
+L,,Guidons Route LL,811,19.7758,,Guidons,Composants,⚙
+M,,Guidons Route ML,812,27.4925,,Guidons,Composants,⚙
+H,,Guidons Route HL,813,53.3999,,Guidons,Composants,⚙
+L,,Guidons Tourisme LL,946,20.464,,Guidons,Composants,⚙
+H,,Guidons Tourisme HL,947,40.6571,,Guidons,Composants,⚙
+L,,Axe de Pédalier LL,994,23.9716,,Axe de Pédalier,Composants,⚙
+M,,Axe de Pédalier ML,995,44.9506,,Axe de Pédalier,Composants,⚙
+H,,Axe de Pédalier HL,996,53.9416,,Axe de Pédalier,Composants,⚙
+,Argent/Gris,Frein arrière,907,47.286,,Freins,Composants,⚙
+,Argent/Gris,Frein arrière,948,47.286,,Freins,Composants,⚙
+,Argent/Gris,Chaîne,952,8.9866,,Chaînes,Composants,⚙
+L,Noir,Manivelle LL,317,0,,Pédaliers,Composants,⚙
+M,Noir,Manivelle ML,318,0,,Pédaliers,Composants,⚙
+,Noir,Manivelle HL,319,0,,Pédaliers,Composants,⚙
+,Argent/Gris,Vis de Plateau,320,0,,Pédaliers,Composants,⚙
+,Argent/Gris,Ecrou de Plateau,321,0,,Pédaliers,Composants,⚙
+,Noir,Plateau,322,0,,Pédaliers,Composants,⚙
+,Argent/Gris,Roue Libre,332,0,,Pédaliers,Composants,⚙
+L,Noir,Pédalier LL,949,77.9176,,Pédaliers,Composants,⚙
+M,Noir,Pédalier ML,950,113.8816,,Pédaliers,Composants,⚙
+H,Noir,Pédalier HL,951,179.8156,,Pédaliers,Composants,⚙
+,Argent/Gris,Chape Dérailleur Avant,351,0,,Dérailleurs,Composants,⚙
+,Argent/Gris,Câble de Dérailleur,352,0,,Dérailleurs,Composants,⚙
+,Argent/Gris,Chape Dérailleur Arrière,679,0,,Dérailleurs,Composants,⚙
+,Argent/Gris,Dérailleur arrière,894,53.9282,,Dérailleurs,Composants,⚙
+,Argent/Gris,Dérailleur avant,945,40.6216,,Dérailleurs,Composants,⚙
+L,,Fourche LL,802,65.8097,,Fourche,Composants,⚙
+M,,Fourche ML,803,77.9176,,Fourche,Composants,⚙
+H,,Fourche HL,804,101.8936,,Fourche,Composants,⚙
+L,,Jeux de Direction LL,805,15.1848,,Jeux de Direction,Composants,⚙
+M,,Jeux de Direction ML,806,45.4168,,Jeux de Direction,Composants,⚙
+H,,Jeux de Direction HL,807,55.3801,,Jeux de Direction,Composants,⚙
+H,Argent/Gris,"Cadre Montagne HL - Argent, 42",739,747.2002,U,Cadres Montagne,Composants,⚙
+H,Argent/Gris,"Cadre Montagne HL - Argent, 44",740,706.811,U,Cadres Montagne,Composants,⚙
+H,Argent/Gris,"Cadre Montagne HL - Argent, 48",741,706.811,U,Cadres Montagne,Composants,⚙
+H,Argent/Gris,"Cadre Montagne HL - Argent, 46",742,747.2002,U,Cadres Montagne,Composants,⚙
+H,Noir,"Cadre Montagne HL - Noir, 42",743,739.041,U,Cadres Montagne,Composants,⚙
+H,Noir,"Cadre Montagne HL - Noir, 44",744,699.0928,U,Cadres Montagne,Composants,⚙
+H,Noir,"Cadre Montagne HL - Noir, 48",745,699.0928,U,Cadres Montagne,Composants,⚙
+H,Noir,"Cadre Montagne HL - Noir, 46",746,739.041,U,Cadres Montagne,Composants,⚙
+H,Noir,"Cadre Montagne HL - Noir, 38",747,739.041,U,Cadres Montagne,Composants,⚙
+H,Argent/Gris,"Cadre Montagne HL - Argent, 38",748,747.2002,U,Cadres Montagne,Composants,⚙
+M,Noir,"Cadre Montagne ML - Noir, 38",814,185.8193,U,Cadres Montagne,Composants,⚙
+M,Noir,"Cadre Montagne ML - Noir, 40",830,185.8193,U,Cadres Montagne,Composants,⚙
+M,Noir,"Cadre Montagne ML - Noir, 44",831,185.8193,U,Cadres Montagne,Composants,⚙
+M,Noir,"Cadre Montagne ML - Noir, 48",832,185.8193,U,Cadres Montagne,Composants,⚙
+M,Argent/Gris,"Cadre Montagne-400-W Argent, 40",904,199.3757,W,Cadres Montagne,Composants,⚙
+M,Argent/Gris,"Cadre Montagne-400-W Argent, 42",905,199.3757,W,Cadres Montagne,Composants,⚙
+M,Argent/Gris,"Cadre Montagne-400-W Argent, 46",906,199.3757,W,Cadres Montagne,Composants,⚙
+L,Argent/Gris,"Cadre Montagne LL - Argent, 42",917,144.5938,U,Cadres Montagne,Composants,⚙
+L,Argent/Gris,"Cadre Montagne LL - Argent, 44",918,144.5938,U,Cadres Montagne,Composants,⚙
+L,Argent/Gris,"Cadre Montagne LL - Argent, 48",919,144.5938,U,Cadres Montagne,Composants,⚙
+L,Argent/Gris,"Cadre Montagne LL - Argent, 52",920,144.5938,U,Cadres Montagne,Composants,⚙
+L,Noir,"Cadre Montagne LL - Noir, 42",924,136.785,U,Cadres Montagne,Composants,⚙
+L,Noir,"Cadre Montagne LL - Noir, 44",925,136.785,U,Cadres Montagne,Composants,⚙
+L,Noir,"Cadre Montagne LL - Noir, 48",926,136.785,U,Cadres Montagne,Composants,⚙
+L,Noir,"Cadre Montagne LL - Noir, 52",927,136.785,U,Cadres Montagne,Composants,⚙
+M,Argent/Gris,"Cadre Montagne-400-W Argent, 38",942,199.3757,W,Cadres Montagne,Composants,⚙
+L,Noir,"Cadre Montagne LL - Noir, 40",943,136.785,U,Cadres Montagne,Composants,⚙
+L,Argent/Gris,"Cadre Montagne LL - Argent, 40",944,144.5938,U,Cadres Montagne,Composants,⚙
+L,Argent/Gris,Pédale Montagne LL,935,17.9776,,Pédales,Composants,⚙
+M,Argent/Gris,Pédale Montagne ML,936,27.568,,Pédales,Composants,⚙
+H,Argent/Gris,Pédale Montagne HL,937,35.9596,,Pédales,Composants,⚙
+L,Argent/Gris,Pédale Route LL,938,17.9776,,Pédales,Composants,⚙
+M,Argent/Gris,Pédale de Route ML,939,27.568,,Pédales,Composants,⚙
+H,Argent/Gris,Pédale de Route HL,940,35.9596,,Pédales,Composants,⚙
+,Argent/Gris,Pédale de Tourisme,941,35.9596,,Pédales,Composants,⚙
+H,Noir,"Cadre Route HL - Noir, 58",680,1059.31,U,Cadres Route,Composants,⚙
+H,Rouge,"Cadre Route HL - Rouge, 58",706,1059.31,U,Cadres Route,Composants,⚙
+H,Rouge,"Cadre Route HL - Rouge, 62",717,868.6342,U,Cadres Route,Composants,⚙
+H,Rouge,"Cadre Route HL - Rouge, 44",718,868.6342,U,Cadres Route,Composants,⚙
+H,Rouge,"Cadre Route HL - Rouge, 48",719,868.6342,U,Cadres Route,Composants,⚙
+H,Rouge,"Cadre Route HL - Rouge, 52",720,868.6342,U,Cadres Route,Composants,⚙
+H,Rouge,"Cadre Route HL - Rouge, 56",721,868.6342,U,Cadres Route,Composants,⚙
+L,Noir,"Cadre Route HL - Noir, 58",722,204.6251,U,Cadres Route,Composants,⚙
+L,Noir,"Cadre Route HL - Noir, 60",723,204.6251,U,Cadres Route,Composants,⚙
+L,Noir,"Cadre Route HL - Noir, 62",724,204.6251,U,Cadres Route,Composants,⚙
+L,Rouge,"Cadre Route LL - Rouge, 44",725,187.1571,U,Cadres Route,Composants,⚙
+L,Rouge,"Cadre Route LL - Rouge, 48",726,187.1571,U,Cadres Route,Composants,⚙
+L,Rouge,"Cadre Route LL - Rouge, 52",727,187.1571,U,Cadres Route,Composants,⚙
+L,Rouge,"Cadre Route LL - Rouge, 58",728,187.1571,U,Cadres Route,Composants,⚙
+L,Rouge,"Cadre Route LL - Rouge, 60",729,187.1571,U,Cadres Route,Composants,⚙
+L,Rouge,"Cadre Route LL - Rouge, 62",730,187.1571,U,Cadres Route,Composants,⚙
+M,Rouge,"Cadre Route-450 Rouge ML, 44",731,352.1394,U,Cadres Route,Composants,⚙
+M,Rouge,"Cadre Route-450 Rouge ML, 48",732,352.1394,U,Cadres Route,Composants,⚙
+M,Rouge,"Cadre Route-450 Rouge ML, 52",733,352.1394,U,Cadres Route,Composants,⚙
+M,Rouge,"Cadre Route-450 Rouge ML, 58",734,352.1394,U,Cadres Route,Composants,⚙
+M,Rouge,"Cadre Route-450 Rouge ML, 60",735,352.1394,U,Cadres Route,Composants,⚙
+L,Noir,"Cadre Route HL - Noir, 44",736,204.6251,U,Cadres Route,Composants,⚙
+L,Noir,"Cadre Route HL - Noir, 48",737,204.6251,U,Cadres Route,Composants,⚙
+L,Noir,"Cadre Route HL - Noir, 52",738,204.6251,U,Cadres Route,Composants,⚙
+M,Jaune,"Cadre Route-550-W Jaune, 38",822,360.9428,W,Cadres Route,Composants,⚙
+M,Jaune,"Cadre Route-550-W Jaune, 40",833,360.9428,W,Cadres Route,Composants,⚙
+M,Jaune,"Cadre Route-550-W Jaune, 42",834,360.9428,W,Cadres Route,Composants,⚙
+M,Jaune,"Cadre Route-550-W Jaune, 44",835,360.9428,W,Cadres Route,Composants,⚙
+M,Jaune,"Cadre Route-550-W Jaune, 48",836,360.9428,W,Cadres Route,Composants,⚙
+H,Noir,"Cadre Route HL - Noir, 62",837,868.6342,U,Cadres Route,Composants,⚙
+H,Noir,"Cadre Route HL - Noir, 44",838,868.6342,U,Cadres Route,Composants,⚙
+H,Noir,"Cadre Route HL - Noir, 48",839,868.6342,U,Cadres Route,Composants,⚙
+H,Noir,"Cadre Route HL - Noir, 52",840,868.6342,U,Cadres Route,Composants,⚙
+L,,Ensemble Selle Montagne LL,514,98.77,,Selles,Composants,⚙
+M,,Ensemble Selle Montagne ML,515,108.99,,Selles,Composants,⚙
+,,Ensemble Selle Montagne HL,516,145.87,,Selles,Composants,⚙
+L,,Ensemble Selle Route LL,517,98.77,,Selles,Composants,⚙
+M,,Ensemble Selle Route Montagne ML,518,108.99,,Selles,Composants,⚙
+,,Ensemble Selle Route HL,519,145.87,,Selles,Composants,⚙
+L,,Ensemble Selle Tourisme LL,520,98.77,,Selles,Composants,⚙
+M,,Ensemble Selle Tourisme ML,521,108.99,,Selles,Composants,⚙
+,,Ensemble Selle Tourisme HL,522,145.87,,Selles,Composants,⚙
+,,Raccord de Selle,528,0,,Selles,Composants,⚙
+,,Tige de Selle,530,0,,Selles,Composants,⚙
+,,Haubans,532,0,,Selles,Composants,⚙
+,,Tube de Selle,533,0,,Selles,Composants,⚙
+L,,Selle Montagne LL,908,12.0413,,Selles,Composants,⚙
+M,,Selle Montagne ML,909,17.3782,,Selles,Composants,⚙
+H,,Selle Montagne HL,910,23.3722,,Selles,Composants,⚙
+L,,Selle Route LL,911,12.0413,,Selles,Composants,⚙
+M,,Selle Route ML,912,17.3782,,Selles,Composants,⚙
+H,,Selle Route HL,913,23.3722,,Selles,Composants,⚙
+L,,Selle Tourisme LL,914,12.0413,,Selles,Composants,⚙
+M,,Selle Tourisme ML,915,17.3782,,Selles,Composants,⚙
+H,,Selle Tourisme HL,916,23.3722,,Selles,Composants,⚙
+H,Jaune,"Cadre Tourisme HL - Jaune, 60",885,601.7437,U,Cadres Tourisme,Composants,⚙
+L,Jaune,"Cadre Tourisme LL - Jaune, 62",886,199.8519,U,Cadres Tourisme,Composants,⚙
+H,Jaune,"Cadre Tourisme HL - Jaune, 46",887,601.7437,U,Cadres Tourisme,Composants,⚙
+H,Jaune,"Cadre Tourisme HL - Jaune, 50",888,601.7437,U,Cadres Tourisme,Composants,⚙
+H,Jaune,"Cadre Tourisme HL - Jaune, 54",889,601.7437,U,Cadres Tourisme,Composants,⚙
+H,Bleu,"Cadre Tourisme HL - Bleu, 46",890,601.7437,U,Cadres Tourisme,Composants,⚙
+H,Bleu,"Cadre Tourisme HL - Bleu, 50",891,601.7437,U,Cadres Tourisme,Composants,⚙
+H,Bleu,"Cadre Tourisme HL - Bleu, 54",892,601.7437,U,Cadres Tourisme,Composants,⚙
+H,Bleu,"Cadre Tourisme HL - Bleu, 60",893,601.7437,U,Cadres Tourisme,Composants,⚙
+L,Bleu,"Cadre Tourisme LL - Bleu, 50",895,199.8519,U,Cadres Tourisme,Composants,⚙
+L,Bleu,"Cadre Tourisme LL - Bleu, 54",896,199.8519,U,Cadres Tourisme,Composants,⚙
+L,Bleu,"Cadre Tourisme LL - Bleu, 58",897,199.8519,U,Cadres Tourisme,Composants,⚙
+L,Bleu,"Cadre Tourisme LL - Bleu, 62",898,199.8519,U,Cadres Tourisme,Composants,⚙
+L,Jaune,"Cadre Tourisme LL - Jaune, 44",899,199.8519,U,Cadres Tourisme,Composants,⚙
+L,Jaune,"Cadre Tourisme LL - Jaune, 50",900,199.8519,U,Cadres Tourisme,Composants,⚙
+L,Jaune,"Cadre Tourisme LL - Jaune, 54",901,199.8519,U,Cadres Tourisme,Composants,⚙
+L,Jaune,"Cadre Tourisme LL - Jaune, 58",902,199.8519,U,Cadres Tourisme,Composants,⚙
+L,Bleu,"Cadre Tourisme LL - Bleu, 44",903,199.8519,U,Cadres Tourisme,Composants,⚙
+L,Noir,Roue avant Montagne LL,815,26.9708,,Roues,Composants,⚙
+M,Noir,Roue avant Montagne ML,816,92.8071,,Roues,Composants,⚙
+H,Noir,Roue avant Montagne HL,817,133.2955,,Roues,Composants,⚙
+L,Noir,Roue avant Route LL,818,37.9909,,Roues,Composants,⚙
+M,Noir,Roue avant Route ML,819,110.2829,,Roues,Composants,⚙
+H,Noir,Roue avant Route HL,820,146.5466,,Roues,Composants,⚙
+,Noir,Roue avant Tourisme,821,96.7964,,Roues,Composants,⚙
+L,Noir,Roue arrière Montagne LL,823,38.9588,,Roues,Composants,⚙
+M,Noir,Roue arrière Montagne ML,824,104.7951,,Roues,Composants,⚙
+H,Noir,Roue arrière Montagne HL,825,145.2835,,Roues,Composants,⚙
+L,Noir,Roue arrière Route LL,826,49.9789,,Roues,Composants,⚙
+M,Noir,Roue arrière Route ML,827,122.2709,,Roues,Composants,⚙
+H,Noir,Roue arrière Route HL,828,158.5346,,Roues,Composants,⚙
+,Noir,Roue arrière Tourisme,829,108.7844,,Roues,Composants,⚙
+,Multi,"Cuissards Homme, S",855,37.1209,M,Cuissards,Vêtements,👕
+,Multi,"Cuissards Homme, M",856,37.1209,M,Cuissards,Vêtements,👕
+,Multi,"Cuissards Homme, L",857,37.1209,M,Cuissards,Vêtements,👕
+,Multi,Casquette Logo Sport-Up,712,6.9223,U,Casquettes,Vêtements,👕
+,Noir,"Gants Courts, S",858,9.1593,U,Gants,Vêtements,👕
+,Noir,"Gants Courts, M",859,9.1593,U,Gants,Vêtements,👕
+,Noir,"Gants Courts, L",860,9.1593,U,Gants,Vêtements,👕
+,Noir,"Gants Longs, S",861,15.6709,U,Gants,Vêtements,👕
+,Noir,"Gants Longs, M",862,15.6709,U,Gants,Vêtements,👕
+,Noir,"Gants Longs, L",863,15.6709,U,Gants,Vêtements,👕
+,Multi,"Maillot Manches Longues et Logo, S",713,38.4923,U,Maillots,Vêtements,👕
+,Multi,"Maillot Manches Longues et Logo, M",714,38.4923,U,Maillots,Vêtements,👕
+,Multi,"Maillot Manches Longues et Logo, L",715,38.4923,U,Maillots,Vêtements,👕
+,Multi,"Maillot Manches Longues et Logo, XL",716,38.4923,U,Maillots,Vêtements,👕
+,Jaune,"Maillot Manches Courtes Classique, S",881,41.5723,U,Maillots,Vêtements,👕
+,Jaune,"Maillot Manches Courtes Classique, M",882,41.5723,U,Maillots,Vêtements,👕
+,Jaune,"Maillot Manches Courtes Classique, L",883,41.5723,U,Maillots,Vêtements,👕
+,Jaune,"Maillot Manches Courtes Classique, XL",884,41.5723,U,Maillots,Vêtements,👕
+,Noir,"Culotte de Sport Homme, S",841,24.7459,M,Shorts,Vêtements,👕
+,Noir,"Culotte de Sport Homme, M",849,24.7459,M,Shorts,Vêtements,👕
+,Noir,"Culotte de Sport Homme, L",850,24.7459,M,Shorts,Vêtements,👕
+,Noir,"Culotte de Sport Homme, XL",851,24.7459,M,Shorts,Vêtements,👕
+,Noir,"Culotte Montagne Femme, S",867,26.1763,W,Shorts,Vêtements,👕
+,Noir,"Culotte Montagne Femme, M",868,26.1763,W,Shorts,Vêtements,👕
+,Noir,"Culotte Montagne Femme, L",869,26.1763,W,Shorts,Vêtements,👕
+,Blanc,"Chaussettes de Vélo de Montagne, M",709,3.3963,U,Chaussettes,Vêtements,👕
+,Blanc,"Chaussettes de Vélo de Montagne, L",710,3.3963,U,Chaussettes,Vêtements,👕
+,Blanc,"Chaussettes de Course, M",874,3.3623,U,Chaussettes,Vêtements,👕
+,Blanc,"Chaussettes de Course, L",875,3.3623,U,Chaussettes,Vêtements,👕
+,Noir,"Cuissards Femme, S",852,30.9334,W,Cuissards,Vêtements,👕
+,Noir,"Cuissards Femme, M",853,30.9334,W,Cuissards,Vêtements,👕
+,Noir,"Cuissards Femme, L",854,30.9334,W,Cuissards,Vêtements,👕
+,Bleu,"Veste Classique, S",864,23.749,U,Vestes,Vêtements,👕
+,Bleu,"Veste Classique, M",865,23.749,U,Vestes,Vêtements,👕
+,Bleu,"Veste Classique, L",866,23.749,U,Vestes,Vêtements,👕
+,,"Porte-Vélo d'Attelage - 4 Vélos",876,44.88,,Porte-Vélos,Accessoires,🔐
+,,Râtelier Vélos Tout Usage,879,59.466,,Râteliers Vélos,Accessoires,🔐
+,,"Bouteille d'eau - 850 g",870,1.8663,,Bidons et Porte-Bidons,Accessoires,🔐
+,,Porte-Bidon Montagne,871,3.7363,,Bidons et Porte-Bidons,Accessoires,🔐
+,,Porte-Bidon Route,872,3.3623,,Bidons et Porte-Bidons,Accessoires,🔐
+,,Dissolvant,877,2.9733,,Nettoyants,Accessoires,🔐
+,,Ensemble Garde-Boues - Montagne,878,8.2205,,Garde-Boues,Accessoires,🔐
+,Rouge,"Casque Sport-100, Rouge",707,13.0863,,Casques,Accessoires,🔐
+,Noir,"Casque Sport-100, Noir",708,13.0863,,Casques,Accessoires,🔐
+,Bleu,"Casque Sport-100, Bleu",711,13.0863,,Casques,Accessoires,🔐
+,Argent/Gris,Pack Hydration - 2 Kg,880,20.5663,,"Sacs d'Hydratation",Accessoires,🔐
+,,Réflecteur,506,0,,Lampes,Accessoires,🔐
+,,Phares Arrières -A Pile,846,5.7709,,Lampes,Accessoires,🔐
+,,Phares - Double Faisceau,847,14.4334,,Lampes,Accessoires,🔐
+,,Phares - Imperméabilisé,848,18.5584,,Lampes,Accessoires,🔐
+,,Câble Antivol,843,10.3125,,Antivols,Accessoires,🔐
+,Argent/Gris,"Sacoches Tourisme, Larges",842,51.5625,,Sacoches,Accessoires,🔐
+,,Minipompe,844,8.2459,,Pompes,Accessoires,🔐
+,,Pompe Montagne,845,10.3084,,Pompes,Accessoires,🔐
+1,,Kit Rustines/ 8 Rustines,873,0.8565,,Pneus et Chambres à Air,Accessoires,🔐
+,,Chambre à Air Montagne,921,1.8663,,Pneus et Chambres à Air,Accessoires,🔐
+a,,Chambre à Air Route,922,1.4923,,Pneus et Chambres à Air,Accessoires,🔐
+,,Chambre à Air Tourisme,923,1.8663,,Pneus et Chambres à Air,Accessoires,🔐
+L,,Pneu Montagne LL,928,9.3463,,Pneus et Chambres à Air,Accessoires,🔐
+M,,Pneu Montagne ML,929,11.2163,,Pneus et Chambres à Air,Accessoires,🔐
+H,,Pneu Montagne HL,930,13.09,,Pneus et Chambres à Air,Accessoires,🔐
+L,,Pneu Route LL,931,8.0373,,Pneus et Chambres à Air,Accessoires,🔐
+M,,Pneu Route ML,932,9.3463,,Pneus et Chambres à Air,Accessoires,🔐
+H,,Pneu Route HL,933,12.1924,,Pneus et Chambres à Air,Accessoires,🔐
+,,Pneu Tourisme,934,10.8423,,Pneus et Chambres à Air,Accessoires,🔐
+,,Abonnement Club Famille,201,150,,Abonnement Clud de Sport,Services,🙏
+,,Abonnement Club Standard,202,120,,Abonnement Clud de Sport,Services,🙏
+,,Abonnement Club Platinium,203,170,,Abonnement Clud de Sport,Services,🙏
+,,Autocollant 1,325,0,,Autocollants,Accessoires,🔐
+,,Autocollant 2,326,0,,Autocollants,Accessoires,🔐
+,,Peinture - Noir,492,0,,Peinture,Accessoires,🔐
+,,Peinture - Rouge,493,0,,Peinture,Accessoires,🔐
+,,Peinture - Argent,494,0,,Peinture,Accessoires,🔐
+,,Peinture - Bleu,495,0,,Peinture,Accessoires,🔐
+,,Peinture - Jaune,496,0,,Peinture,Accessoires,🔐
